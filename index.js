@@ -12,7 +12,7 @@ const authenticate = mongoose => {
         console.log("hi2")
       
         // const team = await Team.findOne({token}).exec()
-        console.log(team)
+        // console.log(team)
         console.log("hi3")
         // console
 
