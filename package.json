@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "schemas": "codebrew28/schemas"
+    "schemas": "CodeBrew28/schemas"
   },
   "author": "",
   "license": "ISC",
