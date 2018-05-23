@@ -11,6 +11,7 @@ const authenticate = mongoose => {
       
         const team = await Team.findOne({token}).exec()
         console.log(team)
+        console.log("hi")
         // console
 
         return send(res, 401, 'Unauthorized')
