@@ -14,7 +14,7 @@ const authenticate = mongoose => {
         console.log("hi")
         // console
 
-        return send(res, 401, 'Unauthorized')
+        return send(res, 401, 'LOL')
     }
 }
 
