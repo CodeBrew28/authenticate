@@ -1,4 +1,5 @@
 const { send } = require('micro')
+const { Team } = require('schemas')(mongoose);
 
 const authenticate = mongoose => {
     const { Team } = require('schemas')(mongoose)
